@@ -4,7 +4,7 @@
 
 ![yamada.gif](https://raw.github.com/gongo/yamada-el/master/yamada.gif)
 
-![yamada-el.gif](https://raw.github.com/gongo/yamada-el/master/yamada.gif)
+![yamada-el.gif](https://raw.github.com/gongo/yamada-el/master/yamada-el.gif)
 
 ## Usage
 
